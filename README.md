@@ -14,7 +14,7 @@
 - My experience extends beyond what I have shared on Github. I conduct numerous experiments with Unity, but I typically don't share them.
 
 - **About experienced tools and languages**
-- Most of the tools and languages that are below are at least once were introduced to me during my time at university or when I was curious enough to use them. I possess the most experience in C#, After Effects, Photoshop, Unity, and Git, which are primarily associated with game development, as you may have guessed.
+- Most of the tools and languages that are below are at least once were introduced to me during my time at university or when I was curious enough to use them. I possess the most experience in **C#**, After Effects, **Photoshop**, **Unity**, **Git** and **Blender**. Which are primarily associated with game development, as you may have guessed.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Eslorex#0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Eslorex#0101" height="30" width="40" /></a>
