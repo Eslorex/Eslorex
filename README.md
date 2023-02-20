@@ -8,7 +8,7 @@
 
 - Our plan is to launch Illusa exclusively for Steam and PCVR within the next 1-2 years. We have been fortunate to receive assistance from a select few exceptional individuals who have supported us without any expectation of reward. Without their contributions, it's possible that Illusa concept would not exist today.
 
-- Also I place great value on maintaining my anonymity because my government hasn't been able to ensure safety of their peoples personal information. It's possible to obtain a person's complete identity information, their address etc. for less than a dollar.
+- Moreover, I highly prioritize the need to preserve my anonymity due to my government's inability to safeguard the personal information of their citizens. It's alarmingly easy to acquire a person's complete identity details, including their address, for less than a dollar.
 
 - **My Github Repositories**
 - Typically, I share repositories that contain algorithms or small projects I have created to assist people online or for my school. It's important to keep in mind that I may not prioritize code quality or design, particularly if the project doesn't pertain to game development. 
