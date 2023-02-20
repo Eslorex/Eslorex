@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eslorex</h1>
-<h3 align="center">A passionate Game Developer from Turkey</h3>
+<h3 align="center">A passionate Game Developer from Turkey and I study Computer Sciences (3rd grade). </h3>
 
 - 🔭 I’m currently working on **Illusa VR Game**
+- In general, I prioritize learning by working on larger projects than working on multiple small projects. Illusa is basically an example for this idea. I push myself into a space that is filled with a lot of problems. And I begin to learn solving them one by one. I was at the start of 3rd grade when I decided to start developing Illusa with my classmates. I had knowledge on programming already but I decided to get into Game Development Industry with this project. I was a VR user for last 5 years already. So I wanted to have a harder start by deciding to develope a VR Game to push myself and my team into learning more complex programming for a beginning game. Which helped me and my team a lot. In a really short period of time, our capability increased along our passion. We're currently learning everything from scratch such as 3d modeling, animating, vr based physics, developing AI characters that works seperate from navmesh etc.  
+
+- My Github Repositories
+- Typically, I share repositories that contain algorithms or small projects I have created to assist people online or for my school. It's important to keep in mind that I may not prioritize code quality or design, particularly if the project doesn't pertain to game development.
+- Also I create distinct repositories for each algorithm as it can be challenging to locate the explanation or application of the algorithm within the same folder.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
