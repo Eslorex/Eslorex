@@ -12,7 +12,7 @@
 
 - **My Github Repositories**
 - Typically, I share repositories that contain algorithms or small projects I have created to assist people online or for my school. It's important to keep in mind that I may not prioritize code quality or design, particularly if the project doesn't pertain to game development. 
-- Also I create distinct repositories for each algorithm as it can be challenging to locate the explanation or application of the algorithm within the same folder.
+- Also I create distinct repositories for each algorithm as it can be challenging to locate the explanation or application of the algorithm within the same folder. I might merge them into one folder one day with documentation one day. Since I think they're too simple to have their own repository. 
 - My experience extends beyond what I have shared on Github. I conduct numerous experiments with Unity, but I typically don't share them.
 
 - **About experienced tools and languages**
