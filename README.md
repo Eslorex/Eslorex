@@ -8,6 +8,8 @@
 
 - Our plan is to launch Illusa exclusively for Steam and PCVR within the next 1-2 years. We have been fortunate to receive assistance from a select few exceptional individuals who have supported us without any expectation of reward. Without their contributions, it's possible that Illusa concept would not exist today.
 
+- I enjoy providing assistance to people online as it keeps me engaged. Previously, I offered help to Turkish individuals through online communities such as Unity3D Turkey. However, I found it challenging to work with them as they often struggled to communicate their questions effectively or provide sufficient information for me to solve their problems. Despite my attempts to suggest creating a new text channel to better guide these individuals, my proposal was rejected by admins, and I was subsequently banned :D. As a result, I no longer collaborate with Turkish individuals as it can complicate matters. Nonetheless, I continue to assist people on global servers and I'm fortunate to avoid such difficulties. 
+
 - Moreover, I highly prioritize the need to preserve my anonymity due to my government's inability to safeguard the personal information of their citizens. It's alarmingly easy to acquire a person's complete identity details, including their address, for less than a dollar.
 
 - **My Github Repositories**
