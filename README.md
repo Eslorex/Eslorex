@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eslorex</h1>
 <h3 align="center">I'm a passionate Game Developer from Turkey and I study Computer Sciences (3rd grade). </h3>
 
-- 🔭 I’m currently working on **Illusa VR Game**
+- I’m currently working on **Illusa VR Game**
 - Generally, I prefer to prioritize learning through engagement in larger projects rather than focusing on several smaller ones. Illusa serves as a prime example of this approach. I challenged myself by immersing into a project that was riddled with numerous problems, enabling me to learn how to solve them one by one. 
 
 - When I and my classmates started developing Illusa during the 3rd grade, I already possessed some programming knowledge, but I wanted to delve deeper into the game development industry. As a VR user for the past five years, I wanted to push myself and my team to tackle more complex programming by deciding to develop a VR game from scratch. This decision proved to be highly beneficial as it enabled us to enhance our skills and passion in a short period. We started learning various skills from start, such as 3D modeling, animation, VR-based physics or developing AI characters that operate independently of navmesh etc.
