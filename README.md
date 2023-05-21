@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eslorex</h1>
+
 <h3 align="center">I'm a passionate Game Developer from Turkey and I study Computer Sciences (3rd grade). </h3>
 
 - I’m currently working on **Illusa VR Game**
