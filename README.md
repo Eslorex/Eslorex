@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi! I'm Eslorex, a passionate Game Developer from Turkey and I study Computer Sciences (3rd grade). </h3>
+<h3 align="center">Hi! I'm Eslorex, a passionate Game Developer from Turkey and I study Computer Sciences (4th grade). </h3>
 
 - I’m currently working on **Illusa VR Game**
 - Generally, I prefer to prioritize learning through engagement in larger projects rather than focusing on several smaller ones. Illusa serves as a prime example of this approach. I challenged myself by immersing into a project that was riddled with numerous problems, enabling me to learn how to solve them one by one. 
