@@ -1,17 +1,6 @@
 
 <h3 align="center">Hi! I'm Eslorex, a passionate Game Developer from Turkey and I study Computer Sciences (4th grade). </h3>
 
-- I’m currently working on **Illusa VR Game**
-- Generally, I prefer to prioritize learning through engagement in larger projects rather than focusing on several smaller ones. Illusa serves as a prime example of this approach. I challenged myself by immersing into a project that was riddled with numerous problems, enabling me to learn how to solve them one by one. 
-
-- When I and my classmates started developing Illusa during the 3rd grade, I already possessed some programming knowledge, but I wanted to delve deeper into the game development industry. As a VR user for the past five years, I wanted to push myself and my team to tackle more complex programming by deciding to develop a VR game from scratch. This decision proved to be highly beneficial as it enabled us to enhance our skills and passion in a short period. We started learning various skills from start, such as 3D modeling, animation, VR-based physics or developing AI characters that operate independently of navmesh etc.
-
-- Our plan is to launch Illusa exclusively for Steam and PCVR within the next 1-2 years. We have been fortunate to receive assistance from a select few exceptional individuals who have supported us without any expectation of reward. Without their contributions, it's possible that Illusa concept would not exist today.
-
-- I take pleasure in providing online assistance as it keeps me engaged, and most of the people I have helped were Turkish. In the past, I offered support to Turkish individuals through online communities like Unity3D and Computer Sciences Turkey. However, I faced difficulties while working with them since they struggled to communicate their queries effectively or provide enough information for me to address their problems. I was aware that assisting people can be a general issue, but it was particularly challenging in Turkish servers.  Although I suggested creating a new text channel to guide them better, the administrators rejected my proposal and subsequently banned me. Hence, I no longer collaborate with Turkish individuals as it can cause complications. But still, I continue to help people on global servers, and I'm grateful to avoid such predicaments.
-
-- Moreover, I highly prioritize the need to preserve my anonymity due to my government's inability to safeguard the personal information of their citizens. It's alarmingly easy to acquire a person's complete identity details, including their address, for less than a dollar.
-
 - **My Github Repositories**
 - Typically, I share repositories that contain algorithms or small projects I have created to assist people online or for my school. It's important to keep in mind that I may not prioritize code quality or design, particularly if the project doesn't pertain to game development. 
 - Also I create distinct repositories for each algorithm as it can be challenging to locate the explanation or application of the algorithm within the same folder. I might merge them into one folder with documentation one day. Since I think they're too simple to have their own repository. 
