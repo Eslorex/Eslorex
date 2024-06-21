@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi! I'm Eslorex, a passionate Game Developer from Turkey and I study Computer Sciences (4th grade). </h3>
+<h3 align="center">Hi! I'm Eslorex, a passionate Computer Engineer & Game Developer </h3>
 
 - **My Github Repositories**
 - Typically, I share repositories that contain algorithms or small projects I have created to assist people online or for my school. It's important to keep in mind that I may not prioritize code quality or design, particularly if the project doesn't pertain to game development. 
